@@ -2,7 +2,7 @@
 <img src="https://github.com/aisuneko/aisuneko/blob/master/aisuneko:banner.jpg" />  
 </p>
 
-G11 OIer / Railway fan.
+G11 (Rookie) Tech Enthusiast / Railway fan. AFO.
 
 Currently ~~using~~ (learning\*) **C++ / Python / Qt 5.**
 
