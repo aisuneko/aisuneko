@@ -4,7 +4,7 @@
 
 Grade 11 (Rookie) Tech Enthusiast / Railway Fan / Former OIer.
 
-Debian & Android user, slowly embracing FOSS.
+~~Debian/~~ Arch Linux & Android user, slowly embracing FOSS.
 
 Currently ~~using~~ (learning\*) **C++ / Python / Qt 5 / Flutter / Dart.**
 
