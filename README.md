@@ -16,4 +16,4 @@ Currently ~~using~~ (learning\*) **C++ / Python / Qt 5 / ~~Flutter w/ Dart~~ / A
 
 <br>
 
-~~*btw I <3 Sonoda Umi / Aoshima Moka / Emilia / Shimarin*~~
+~~*btw I <3 Sonoda Umi / Aoshima Moka / Emilia / Shimarin + Nadeshiko Kagamihara*~~
