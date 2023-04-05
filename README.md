@@ -6,7 +6,7 @@
 
 Currently ~~using~~ (learning\*) **Rust / Python / C++, Qt 5 / ~~Flutter w/ Dart~~ / Android dev w/ Kotlin? / ~~gtk4~~ fltk-rs / OpenGL.**
 
-Feel free to check out my [Blog](https://aisuneko.pages.dev)...
+Feel free to check out my [Blog](https://aisuneko.moe)...
 
 ...or reach out to me via [Telegram](https://t.me/aisuneko) | [Reddit](https://reddit.com/u/aisuneko_icecat) | Discord (aisuneko#8219, infrequent)
 
