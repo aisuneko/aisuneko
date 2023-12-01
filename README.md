@@ -4,7 +4,7 @@
 
 Univ. Freshman / Tech & FOSS Enthusiast / Railway Fan / Former OIer / Amateur Graphics Design & Multimedia Hobbyist / Anime lover. ~~Debian/~~ Arch Linux & Android (LineageOS) user.
 
-Currently ~~using~~ (learning\*) **Rust / Python / C++, Qt 5 / Android dev w/ Kotlin? / gtk4, fltk-rs / Embedded development / Nodejs?**.
+Currently ~~using~~ (learning\*) **Rust / Python / C++ / perhaps some more...**.
 
 ---
 Feel free to check out [my blog](https://aisuneko.moe)...
