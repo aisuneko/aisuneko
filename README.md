@@ -2,9 +2,11 @@
 
 <br>
 
-Univ. Freshman / Tech & FOSS Enthusiast / Railway Fan / Former OIer / Amateur Graphics Design & Multimedia Hobbyist / Anime lover. ~~Debian/~~ Arch Linux & Android (LineageOS) user.
+Univ. Undergrad / FOSS Enthusiast / Railway Transit Fan / Former OIer / Amateur Graphics Design & Multimedia Hobbyist / Anime lover.
 
-Currently ~~using~~ (learning\*) **Rust / Python / C++ / perhaps some more...**.
+~~Debian/~~ Arch Linux & AOSP (LineageOS) user.
+
+Currently ~~using~~ (learning\*) Rust / Python / C++ / DIY Electronics & Embedded / perhaps some more...
 
 ---
 Feel free to check out [my blog](https://aisuneko.moe)...
