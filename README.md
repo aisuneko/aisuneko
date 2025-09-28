@@ -15,4 +15,4 @@ Feel free to check out [my blog](https://aisuneko.moe)...
 ...or reach out to me via [Telegram](https://t.me/aisuneko) | [Reddit](https://reddit.com/u/aisuneko_icecat) | Discord (aisuneko#8219, infrequent)
 
 ---
-<img src=https://images.credly.com/images/a77b7f85-70b0-42ab-9519-67ee509fbc0c/image.png width=100 height=100> </img>
+<img src=https://invent.kde.org/uploads/-/system/achievements/achievement/avatar/12/sok_2024_purple_bigger.png width=100 height=100> </img> <img src=https://images.credly.com/images/a77b7f85-70b0-42ab-9519-67ee509fbc0c/image.png width=100 height=100> </img>
